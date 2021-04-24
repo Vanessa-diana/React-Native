@@ -1,7 +1,7 @@
 import { useNavigation } from '@react-navigation/core';
 import React,{ useState } from 'react';
 import { SafeAreaView, StyleSheet, Text, TextInput, View, KeyboardAvoidingView, Platform, TouchableWithoutFeedback, Keyboard } from 'react-native';
-import { Button } from '../assets/components/Button';
+import { Button } from '../components/Button';
 import colors from '../styles/colors';
 import fonts from '../styles/fonts';
 
